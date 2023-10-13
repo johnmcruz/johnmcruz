@@ -1,4 +1,6 @@
-# combined_superstore + returns + people
+# John Cruz
+# Superstore Analysis
+
 install.packages("dplyr")
 library(dplyr)
 
@@ -9,7 +11,6 @@ combined_data <- combined_superstore_data %>%
 uniquewa_returns <- returns %>%
   distinct(order_id, .keep_all = TRUE)
 
-# Now, merge data_set2 with the filtered unique_data_set1
 combined_data <- combined_superstore_data %>%
   left_join(uniquewa_returns %>% select(order_id), by = "order_id") %>%
   mutate(returned = ifelse((combined_superstore_data$order_id %in% uniquewa_returns$order_id), "Yes", "No"))
