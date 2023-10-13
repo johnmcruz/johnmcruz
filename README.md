@@ -1,8 +1,6 @@
-### John Cruz
+# John Cruz
 ## Business Data Analyst
-# LinkedIn: 
-
-<!--
+LinkedIn: https://www.linkedin.com/in/john-cruz-2021/
 
 In an effort to exercise my Tableau skills, I've been analyzing various data associated with a fictional superstore.
 
@@ -15,4 +13,3 @@ I also manipulated the datasets in R, I've attached those datasets to my profile
 
 Finally, the Tableau dashboards can be accessed via this link --
 https://public.tableau.com/views/SuperstoreAnalysis_16972137775650/QuarterlyAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link
--->
