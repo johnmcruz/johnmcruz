@@ -1,4 +1,7 @@
-#
+# John Cruz
+# Superstore Analysis
+# Combining the four regional datasets
+
 library(readr)
 west_superstore <- read_csv("Desktop/Certifications/Data/sample-superstore-dataset/data/west_superstore.csv")
 east_superstore <- read_csv("Desktop/Certifications/Data/sample-superstore-dataset/data/east_superstore.csv")
