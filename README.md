@@ -11,7 +11,7 @@ I got the idea by roaming the internet for random datasets that best lend themse
 If interested, here is where I got the dataset --
 https://data.world/haszeliahmad/sample-superstore-dataset-based-on-tableau/settings
 
-I also manipulated the datasets in R for easier analysis, I've attached those datasets to my profile. 
+I also manipulated the datasets in R for easier analysis, I've attached those scripts to my profile. 
 
 Finally, the Tableau dashboards can be accessed via this link --
 https://public.tableau.com/views/SuperstoreAnalysis_16972137775650/QuarterlyAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link
